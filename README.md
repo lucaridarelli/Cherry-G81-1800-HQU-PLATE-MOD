@@ -6,7 +6,7 @@ These are design files for a Cherry G81 1800 HQU PLATE MODIFICATION originally p
 https://www.youtube.com/watch?v=XGh1Dfi1dn0
 
 as part of a modification project that included a PCB swap for the above keyboard.
-This allows for a mechanical retrofit of an otherwise rubbber dome keyboard.
+This allows for a mechanical retrofit of an otherwise rubber dome keyboard.
 
 This is a free design released into the public domain.
 
